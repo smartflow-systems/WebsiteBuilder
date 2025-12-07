@@ -444,7 +444,7 @@ POST /api/projects/save
 # One-click deploy from builder
 Button: "Publish"
 → Deploys to: yoursite.sfs.build
-→ Custom domain: £5/month extra
+→ Custom domain: $5/month extra
 ```
 
 ### Option 2: Export + Self-Host
@@ -487,7 +487,7 @@ Button: "Publish"
 - Local storage only
 - Export as HTML
 
-### Starter (£19/month)
+### Starter ($19/month)
 - 3 websites
 - 20 pages per site
 - Remove SFS branding
@@ -496,7 +496,7 @@ Button: "Publish"
 - Custom domain (1)
 - Basic analytics
 
-### Pro (£49/month)
+### Pro ($49/month)
 - 10 websites
 - Unlimited pages
 - Advanced components
@@ -506,7 +506,7 @@ Button: "Publish"
 - Team collaboration (3 users)
 - API access
 
-### Agency (£149/month)
+### Agency ($149/month)
 - Unlimited websites
 - Unlimited pages
 - White-label builder
@@ -566,7 +566,7 @@ Button: "Publish"
 
 ### Example 1: Beauty Salon Owner
 
-1. Signs up for Starter plan (£19/mo)
+1. Signs up for Starter plan ($19/mo)
 2. Chooses "Beauty Salon" template
 3. Customizes colors to match brand
 4. Uploads logo and photos
@@ -579,13 +579,13 @@ Button: "Publish"
 
 ### Example 2: Web Agency
 
-1. Signs up for Agency plan (£149/mo)
+1. Signs up for Agency plan ($149/mo)
 2. White-labels builder with their branding
 3. Creates 5 websites for clients
-4. Each client pays agency £99/mo
-5. Agency revenue: £495/mo
-6. Agency cost: £149/mo
-7. **Agency profit: £346/mo** (232% ROI)
+4. Each client pays agency $99/mo
+5. Agency revenue: $495/mo
+6. Agency cost: $149/mo
+7. **Agency profit: $346/mo** (232% ROI)
 
 ### Example 3: Restaurant
 
@@ -707,7 +707,7 @@ interface ComponentProps {
 
 ### vs. Wix/Squarespace
 
-✅ **Lower Price:** £19/mo vs £16-49/mo
+✅ **Lower Price:** $19/mo vs $16-49/mo
 ✅ **No Transaction Fees:** Keep 100% of sales
 ✅ **Better Integrations:** Built-in booking system
 ✅ **Faster:** React-based, lightning fast
@@ -723,7 +723,7 @@ interface ComponentProps {
 
 ### vs. Custom Development
 
-✅ **Cheaper:** £19/mo vs £5000 upfront
+✅ **Cheaper:** $19/mo vs $5000 upfront
 ✅ **Faster:** Hours vs weeks
 ✅ **Control:** Edit anytime yourself
 ✅ **Updates:** New features automatically
@@ -742,18 +742,18 @@ interface ComponentProps {
 ### Month 2-3: Public Launch
 - Paid plans live
 - 200 paying customers
-- £3,000/month MRR
+- $3,000/month MRR
 - Product Hunt launch
 
 ### Month 4-6: Scale
 - 1,000 customers
-- £15,000/month MRR
+- $15,000/month MRR
 - Add team members
 - Expand features
 
 ### Month 7-12: Optimize
 - 5,000 customers
-- £75,000/month MRR
+- $75,000/month MRR
 - Agency partnerships
 - International expansion
 
@@ -770,7 +770,7 @@ interface ComponentProps {
 ### Business KPIs
 - Trial to paid: 25%
 - Monthly churn: < 5%
-- Average LTV: £500+
+- Average LTV: $500+
 - Customer satisfaction: 4.5/5 stars
 
 ### User Engagement
@@ -786,7 +786,7 @@ interface ComponentProps {
 WebsiteBuilder is now fully specified and ready for implementation. The architecture is solid, the business model is proven, and the technical stack is modern.
 
 **Estimated Development Time:** 2-3 weeks for MVP
-**Estimated Revenue (Month 3):** £3,000-5,000/month
+**Estimated Revenue (Month 3):** $3,000-5,000/month
 **Total Addressable Market:** Millions of small businesses
 
 **Next Command:** `npm install` and start building! 🎨
