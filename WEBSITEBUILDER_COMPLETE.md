@@ -417,7 +417,7 @@ POST /api/projects/save
 
 ### 3. Email Marketing
 
-- Form submissions → Mailchimp/ConvertKit
+- Form submissions → SendGrid only (Mailchimp/ConvertKit not implemented)
 - Automated welcome emails
 - Newsletter signups
 
